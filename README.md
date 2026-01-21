@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Pengeluaran
 =======
 <<<<<<< HEAD
@@ -72,3 +73,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> 1d4f8cc (first commit)
 >>>>>>> 2b8a73c (first commit)
+=======
+# Pengeluaran
+>>>>>>> 11ebbe015e2bf4e1ba50e7aa923925f10b05e907
